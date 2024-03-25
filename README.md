@@ -8,6 +8,7 @@ Shutdowning window also makes your video processing.
 
 
 Good Example)
+
 **input**
 
 https://youtu.be/bVBGuSv8Jbc
@@ -17,6 +18,7 @@ https://youtu.be/bVBGuSv8Jbc
 https://youtu.be/wzwSsdgtl4o
 
 Bad Example)
+
 **input**
 
 https://youtu.be/2u3A4e90j7Q
